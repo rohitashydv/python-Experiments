@@ -7,4 +7,4 @@ if A1+A2+A3==180 and A1>0 and A2>0 and A3>0:
     elif(A1>90 and A2>90 and A3>90):
         print("Obtuse triangle")
     else:
-        print("Accute triangle")
+        print("Acute triangle")
